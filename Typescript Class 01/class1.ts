@@ -1,4 +1,4 @@
-var userName = "Abdul Rehman";
+var userName = "Fatima Naseem";
 var message = `Hey Abu-Hurairah, I have started learning TYPESCRIPT.`;
 console.log(message);
 
